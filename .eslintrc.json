@@ -58,6 +58,5 @@
         "allow": ["warn", "error"]
       }
     ]
-  },
-  "ignorePatterns": ["jest.config.js"]
+  }
 }

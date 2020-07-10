@@ -1,5 +1,10 @@
 import React from 'react';
+import Layout from './LayOut';
 
 export default function Home() {
-	return <div className='container'></div>;
+	return (
+		<Layout>
+            Children component go here
+		</Layout>
+	);
 }

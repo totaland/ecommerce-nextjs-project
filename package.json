@@ -27,7 +27,8 @@
     "react-scripts": "^3.4.1",
     "typescript": "^3.9.6",
     "@atlaskit/css-reset": "^5.0.10",
-    "styled-icons": "^10.6.0"
+    "styled-icons": "^10.6.0",
+    "material-ui": "^0.20.2"
   },
   "devDependencies": {
     "@types/jest": "^24.0.0",
